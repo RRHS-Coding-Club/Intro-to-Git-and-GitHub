@@ -100,6 +100,14 @@ body #disclaimer {
     width: 100%;
     height: 500px;
 }
+.body #github-logo {
+    width: 10%;
+    float: right;
+}
+.body #gitlab-logo {
+    width: 10%;
+    float: right;
+}
 
 @media only screen and (max-width: 500px) {
     .sidebar {
