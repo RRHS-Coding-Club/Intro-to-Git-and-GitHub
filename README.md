@@ -2,7 +2,7 @@
 
 ## Date of Assignment - 05/02/23
 
-### Lesson Information: 
+### Lesson Information: [GitHub Page](https://rrhs-coding-club.github.io/Intro-to-Git-and-GitHub/src/)
 
 As the first organized CC lesson, this is primarily focused upon comprehension and feedback. Please run through the lesson via the GitHub Page and fill out the subsequent google form truthfully and with constructive responses. As it stands there will be one final group project prior to summer, post-completion we plan on hosting a party! Feel free to bring board games, video games, or food!
 
